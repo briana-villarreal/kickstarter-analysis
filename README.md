@@ -1,14 +1,12 @@
-# An Analysis of Kickstarter Campaigns
-## Performing analysis on Kickstarter data to uncover trends
-Lousie, my client, starts a crowdfunding campaign for her play "Fever" and has estimated budget of over $10,000. She plans to launch her play in the U.S. She would like to know which factors make a project campaign most successful from start to finish. 
-## Analysis
-I analyzed successful, failed, and live outcomes of different central categories of production, referred to as "Parent Categories" to understand trends relating to a successful theater production. I used a stacked column pivot chart to obtain results.
-![Parent Category Outcomes Chart](https://user-images.githubusercontent.com/106560739/173724131-3e9d4ce1-bec4-434b-be12-94f1288e71f6.png)
-I analyzed central categories further by breaking them down into subcategories to genertae analysis on the area most relevant to the client: theatrical productions. I created a Pivot Table and Pivot Chart. I discovered the amount of successful, failed, and live theater productions in different countries of origin. 
-I analyzed the length of fundraising campaigns to determine how it correlated to its outcome. I created a Pivot Chart and line graph to determine the outcome of a campaign based on launch date. In the chart, the months of May and June generated the highest levels of success for launching a campaign. January, June, July, and October had approximately the same number of failed campaigns launched. 
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/106560739/173724196-ece21984-a868-46bb-8025-c5c6c497c51c.png)
-Performed measures of central tendency with the dataset to consider kickstarter campaigns for plays in the U.S. and compare the statistics for the campaigns that succeeded versus those that failed. Analyzed and compared the goal and pledged amounts for successful and failed theater campaigns to determine whether there are trends between the goals/pledges and outcome. Constructed a table to determine that failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. Louise is asking for more than twice the average successful Kickstarter goal. In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. In other words, if the failed projects were also getting a median pledge amount of around $3,000, it's possible that those that failed just asked for too high of a price. Since the median is much lower, there must be another factor keeping people from pledging to those unsuccessful projects.
-Analyzed measures of spread for the dataset and determined that the mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset. The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center. Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be failed Kickstarters with too high of goals.
-Found outliers in the dataset and eliminated extreme data points that are not representative of client's objective.
-## Findings/Recommendations
-My client should launch her crowdfunding campaign in June to achieve the greatest success. She should lower her goal amount for her campaign as most failed campaigns have higher fundraising goals than their successful counterparts. 
+# Kickstarting with Excel
+## Overview of Project
+### Purpose
+## Analysis and Challenges
+### Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Goals
+### Challenges and Difficulties Encountered
+## Results
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What can you conclude about the Outcomes based on Goals?
+- What are some limitations of this dataset?
+- What are some other possible tables and/or graphs that we could create?
